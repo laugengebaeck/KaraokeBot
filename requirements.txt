@@ -1,0 +1,9 @@
+python-telegram-bot
+gTTS
+SpeechRecognition
+lyricsgenius
+pytest-shutil
+Wave
+pydub
+ffmpeg
+giphypop
